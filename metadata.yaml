@@ -1,0 +1,36 @@
+_repo: Little-Busybodies--The-Life-of-Crickets-Ants-Bees-Beetles-and-Other-Busybodies_21948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Marks, Jeannette Augustus
+    alias: Marks, Jeanette Augustus
+    birthdate: 1875
+    deathdate: 1964
+    gutenberg_agent_id: '2559'
+    url: http://www.gutenberg.org/2009/agents/2559
+  - agent_name: Moody, Julia
+    alias: Moody, Julia Eleanor
+    birthdate: 1869
+    gutenberg_agent_id: '24986'
+    url: http://www.gutenberg.org/2009/agents/24986
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Insects
+- Children's Instructional Books
+gutenberg_issued: '2007-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21948'
+  lccn: 09010975
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile literature'
+- !lcc 'QL'
+title: 'Little Busybodies: The Life of Crickets, Ants, Bees, Beetles, and Other Busybodies'
+url: http://www.gutenberg.org/ebooks/21948
